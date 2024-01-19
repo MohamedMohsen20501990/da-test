@@ -7,7 +7,7 @@ print(df.head(3))
 df.info()
 df.describe() #betedini ma3lomat statistics
 df.head()
-# what is the average basepay
+# what is the average basepay init
 #khod balak ezay bafaltar fi pandas
 
 df['TotalPay'].mean()
